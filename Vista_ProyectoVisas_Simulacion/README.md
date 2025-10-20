@@ -70,6 +70,8 @@ Imagenes del proyecto
 
 ![Imagen 4](./public/imagenes/f4.png)
 ![Imagen 5](./public/imagenes/f5.png)
+![Imagen 7](./public/imagenes/f7.png)
+
 
 
 Buenas prácticas
@@ -82,4 +84,5 @@ Buenas prácticas
 Contacto
 --------
 Sebastián Escobar
+
 escobarsebastian1230@gmail.com
